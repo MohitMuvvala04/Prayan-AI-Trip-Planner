@@ -1,4 +1,4 @@
-# ✈️ Prayan AI – AI-Powered Trip Planner
+# ✈️ Prayan AI – Trip Planner
 
 <p align="center">
   <strong>Plan Smarter. Travel Better.</strong><br>
