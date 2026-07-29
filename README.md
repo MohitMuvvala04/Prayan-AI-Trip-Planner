@@ -272,11 +272,11 @@ The overall application architecture, frontend implementation, backend integrati
 
 Frontend
 
-> Coming Soon
+https://prayan-ai-trip-planner.vercel.app/
 
 Backend API
 
-> Coming Soon
+https://prayan-ai-trip-planner.onrender.com
 
 ---
 
