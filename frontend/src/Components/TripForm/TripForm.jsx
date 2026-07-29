@@ -94,10 +94,14 @@ function TripForm() {
     setError("");
     setLoading(true);
 
+
       const response = await generateTrip(
   tripData,
   abortControllerRef.current.signal
 );
+
+console.log(response);
+console.log(response.trip);
 
       navigate("/results", {
         state: {

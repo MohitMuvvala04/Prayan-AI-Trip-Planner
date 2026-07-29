@@ -210,6 +210,9 @@ try {
   if (imageResponse.data.results.length > 0) {
     destinationImage = imageResponse.data.results[0].urls.regular;
   }
+
+  console.log("Destination Image:", destinationImage);
+  
 } catch (err) {
   console.log("Unsplash Image Error:", err.message);
 }
