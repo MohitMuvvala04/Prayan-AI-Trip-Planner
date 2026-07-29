@@ -280,6 +280,14 @@ https://prayan-ai-trip-planner.onrender.com
 
 ---
 
+## 🎥 Demo Video
+
+Watch the complete project demo here:
+
+**Demo:** https://drive.google.com/file/d/1dsePE3PHaPipxw57BzXz7JhPTT4vpL5e/view?usp=drivesdk
+
+
+
 # 👨‍💻 Author
 
 **Mohith Muvvala**
