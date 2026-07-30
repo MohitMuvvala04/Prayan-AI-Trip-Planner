@@ -114,7 +114,7 @@ Prayan-AI/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MohitMuvvala04/Prayan-AI-AI-Powered-Trip-Planner.git
+git clone 
 ```
 
 ## 2. Navigate to the Project
@@ -147,7 +147,7 @@ Create a `.env` file inside the **backend** folder.
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key
-OPENWEATHER_API_KEY=your_openweather_api_key
+WEATHER_API_KEY=your_openweather_api_key
 UNSPLASH_ACCESS_KEY=your_unsplash_access_key
 ```
 
@@ -199,7 +199,7 @@ http://localhost:5173
 - Handles malformed AI output gracefully
 - Retry mechanism for failed requests
 - Prevents stale responses using AbortController
-- Responsive UI for desktop and mobile
+- Responsive design optimized for desktop and mobile devices
 - Dark Mode implementation
 - Modular and reusable components
 - PDF export support
@@ -217,6 +217,14 @@ http://localhost:5173
 - Multi-language support
 - Collaborative trip planning
 - Share itineraries with friends
+
+---
+
+## ⏱️ Time Spent
+
+Approximately **8 hours** were spent implementing the core application, including the React frontend, Express backend, AI integration, UI development, state management, and error handling.
+
+Additional time was spent on deployment, testing, debugging, and documentation.
 
 ---
 
