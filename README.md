@@ -90,7 +90,7 @@ flowchart TD
 # 📂 Project Structure
 
 ```
-Prayan-AI/
+Prayan-AI-Trip-Planner/
 │
 ├── backend/
 │   ├── server.js
@@ -114,13 +114,13 @@ Prayan-AI/
 ## 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/MohitMuvvala04/Prayan-AI-Trip-Planner
 ```
 
 ## 2. Navigate to the Project
 
 ```bash
-cd Prayan-AI-AI-Powered-Trip-Planner
+cd Prayan-AI-Trip-Planner
 ```
 
 ## 3. Install Dependencies
@@ -278,13 +278,12 @@ The overall application architecture, frontend implementation, backend integrati
 
 # 🌐 Live Demo
 
-Frontend
 
-https://prayan-ai-trip-planner.vercel.app/
 
-Backend API
+- **Frontend:** https://prayan-ai-trip-planner.vercel.app/
 
-https://prayan-ai-trip-planner.onrender.com
+
+- **Backend API:** https://prayan-ai-trip-planner.onrender.com
 
 ---
 
@@ -304,13 +303,10 @@ Watch the complete project demo here:
 
 📍 SRM Institute of Science and Technology, Andhra Pradesh
 
-GitHub
 
-https://github.com/MohitMuvvala04
+**GitHub:** https://github.com/MohitMuvvala04
 
-LinkedIn
-
-https://www.linkedin.com/in/mohith-muvvala/
+**LinkedIn:**  https://www.linkedin.com/in/mohith-muvvala/
 
 ---
 
